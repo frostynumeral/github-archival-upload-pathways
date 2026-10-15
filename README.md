@@ -1,5 +1,7 @@
 # Executing the Upload: Direct Technical Pathways for the User
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23383017.svg)](https://doi.org/10.5281/zenodo.23383017)
+
 If a researcher, understanding the implications of binary bloat, nevertheless possesses a static, finalized ZIP file containing an article that will not undergo further revision, uploading it to their repository remains a technically viable action, provided it strictly adheres to the size thresholds outlined below. The GitHub ecosystem provides three primary vectors for executing this upload, ranging from highly accessible graphical interfaces to advanced command-line operations.
 
 ## Pathway 1: The Browser-Based Web Interface
