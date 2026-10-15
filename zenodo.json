@@ -1,0 +1,20 @@
+{
+  "title": "Executing the Upload: Direct Technical Pathways and Advanced Binary Infrastructure on GitHub",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "An overview of technical pathways for uploading and distributing static research archives on GitHub, covering the Web Interface, GitHub Desktop, Git CLI, Git Large File Storage (LFS), and GitHub Releases.",
+  "creators": [
+    {
+      "name": "Your Last Name, Your First Name",
+      "affiliation": "Your Institution or Affiliation"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "GitHub",
+    "Git LFS",
+    "GitHub Releases",
+    "Archival Distribution",
+    "Reproducible Research"
+  ]
+}
